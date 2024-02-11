@@ -110,21 +110,9 @@
     </tr>
     <tr rowspan="5">
         <td colspan="5"><ol>
-  <li>
-    Prototype completion by <time datetime="2023-12-15">12/15/2023</time>, featuring basic functionalities and interfaces.
-  </li>
-  <li>
-    Fully functional streamlined data entry interface by <time datetime="2024-02-15">02/15/2024</time>, reducing data entry time by 25%.
-  </li>
-  <li>
-    At least 5 fully designed and functional report templates by <time datetime="2024-03-15">03/15/2024</time>, covering key aspects of women's issues, health, and employment.
-  </li>
-  <li>
-    Development and integration of a data accessibility dashboard by <time datetime="2024-04-15">04/15/2024</time>, showcasing the 30% improvement in retrieval speed.
-  </li>
-  <li>
-    Completion and distribution of a comprehensive training manual for employees by <time datetime="2024-04-30">04/30/2024</time>, ensuring efficient use of the knowledge management system.
-  </li>
+  <li>Prototype completion by <time datetime="2024-3-30">3/20/2024</time>, featuring basic functionalities and interfaces.</li>
+  <li>Marketing plan by <time datetime="2024-04-15">04/15/2024</time>, outlining strategies for promoting the GameVortex platform to both gamers and developers.</li>
+  <li>User interface design by <time datetime="2024-04-30">04/30/2024</time>, reflecting branding and identity of GameVortex.</li>
 </ol>
 </td>
     </tr>
