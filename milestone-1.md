@@ -78,13 +78,11 @@
         <td></td>
         <td></td>
     </tr>
-    
     <tr>
         <td colspan="5" style="font-weight:bold; background-color:#F4811F">3. Stakeholders (e.g., those with a significant interest in or who will be significantly affected by this project)</td>  
     </tr>
     <tr rowspan="4">
-        <td colspan="5">WIN Belize, National Women's Commision of Belize (NWC), UN Development Program (UNDP) Belize
-Inspiration Center, Women's Department Belize, Family Violence Prevention Project (FVPP), Belize Family Life Association (BFLA), Ministry of Health, National AIDS Commission, Belize Police Department, UNICEF, General Public</td> 
+        <td colspan="5">Developers, Gamers, marketing partners, gamin industry associations, technology providers, customer support</td> 
     </tr>
     <tr>
         <td colspan="5" style="font-weight:bold; background-color:#F4811F">4. Project Scope Statement</td>
