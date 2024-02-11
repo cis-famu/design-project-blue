@@ -16,7 +16,7 @@
     </tr>
     <tr>
         <td colspan="2" >Project Name: </td>
-        <td colspan="3" >Place holder</td>    
+        <td colspan="3" >GameVortex</td>    
     </tr>
     <tr>
         <td colspan="2">Executive Sponsors: </td>
