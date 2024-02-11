@@ -91,7 +91,7 @@
         <td colspan="5">Project Purpose / Business Justification Describe the business need this project addresses</td>  
     </tr>
     <tr>
-        <td colspan="5">To provide a comprehensive knowledge base system to empower women and advocate for their well-being</td>  
+        <td colspan="5">The purpose of GameVortex is to offer a curated marketplace where small gamers can promote and sell their games directly to a diverse audience of gamers.</td>  
     </tr>
     <tr>
         <td colspan="5">Objectives (in business terms) Describe the measurable outcomes of the project, e.g., reduce cost by xxxx or increase quality to yyyy</td>
