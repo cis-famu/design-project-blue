@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td colspan="2">Executive Sponsors: </td>
-        <td colspan="3">Place holder</td>
+        <td colspan="3">Fill In</td>
     </tr>
     <tr>
         <td colspan="2">Department Sponsor: </td>
@@ -122,22 +122,11 @@
     <tr rowspan="2">
         <td colspan="5">
         <p>
-  The project will focus on developing a knowledge management system that addresses data related to violence against women, health issues, and employment within the Women's Issues Network of Belize. This encompasses:
+  The project will include the development and launch of an online marketplace platform for gamers and game developers. The platform aims to provide a centralized hub where gamers can discover, purchase, and play a wide variety of games directly from developers. Key features of the platform include user registration, game browsing, developer uploads, secure transactions, and community engagement functionalities. The scope also includes marketing initiatives to promote the platform, quality assurance testing to endsure reliability and usability, and documentation to support project management and knowledge transfer.
 </p>
-<ul>
-  <li>Database design and implementation for storing data related to specified areas.</li>
-  <li>User interface development for streamlined data entry and retrieval.</li>
-  <li>Integration of reporting functionalities for comprehensive analysis and insights.</li>
-  <li>Ensure that all data entered into the system is securely stored and compliant with relevant privacy and security regulations.</li>
-</ul>
 <p>
-  The project will not cover broader aspects outside the defined scope, including:
+    The scope does not include.... fill in.
 </p>
-<ul>
-  <li>Integration with external systems not directly related to women's issues, health, or employment.</li>
-  <li>Development of features unrelated to the specified objectives.</li>
-  <li>Extensive hardware upgrades or network infrastructure modifications.</li>
-</ul>
         </td>
     </tr>
     <tr>
@@ -146,10 +135,12 @@
     <tr rowspan="2">
         <td colspan="5">
             <ul>
-                <li>Inception (10/01/2023 - 10/15/2023)</li>
-                <li>Planning (10/16/2023 - 11/15/2023)</li>
-                <li>Construction (11/16/2023 - 01/15/2024)</li>
-                <li>Delivery (01/16/2024 - 03/15/2024)</li>
+                <li>Prototype Development (03/01/2024 - 03/15/2024)</li>
+                <li>User Interface Design (03/16/2024 - 03/31/2024)</li>
+                <li>Database Implementation (11/16/2023 - 01/15/2024)</li>
+                <li>Quality Assurance Testing (01/16/2024 - 03/15/2024)</li>
+                <li>Marketing and Promotion (01/16/2024 - 03/15/2024)</li>
+                <li>Platform Launch (01/16/2024 - 03/15/2024)</li>
             </ul>
         </td>
     </tr>
