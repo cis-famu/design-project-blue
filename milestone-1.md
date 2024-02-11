@@ -137,10 +137,10 @@
             <ul>
                 <li>Prototype Development (03/01/2024 - 03/15/2024)</li>
                 <li>User Interface Design (03/16/2024 - 03/31/2024)</li>
-                <li>Database Implementation (11/16/2023 - 01/15/2024)</li>
-                <li>Quality Assurance Testing (01/16/2024 - 03/15/2024)</li>
-                <li>Marketing and Promotion (01/16/2024 - 03/15/2024)</li>
-                <li>Platform Launch (01/16/2024 - 03/15/2024)</li>
+                <li>Database Implementation (Fill In)</li>
+                <li>Quality Assurance Testing (Fill In)</li>
+                <li>Marketing and Promotion (Fill In)</li>
+                <li>Platform Launch (Fill In)</li>
             </ul>
         </td>
     </tr>
@@ -155,19 +155,19 @@
                     <td>Risk Rating <small>(Hi, Med, Lo)</small></td>
                 </tr>
                 <tr>
-                    <td>Data privacy breaches</td>
+                    <td>Technical challenges</td>
                     <td>Med</td>
                 </tr>
                 <tr>
-                    <td>Integration challenges</td>
-                    <td>Med</td>
+                    <td>Scope Creep</td>
+                    <td>Hi</td>
                 </tr>
                 <tr>
                     <td>Resource constraints</td>
                     <td>Med</td>
                 </tr>
                 <tr>
-                    <td>Access to existing data</td>
+                    <td>User Acceptance and Adoption</td>
                     <td>Hi</td>
                 </tr>
             </table>
@@ -179,9 +179,9 @@
     <tr rowspan="2">
         <td colspan="5" >
             <ul>
-                <li><strong>Budget Constraint:</strong> The project is constrained by a predetermined budget of $500,000, which must not be exceeded during the entire project lifecycle.</li>
-                <li><strong>Time Constraint:</strong> The project must be completed within the stipulated timeline, with a hard end date of 03/15/2024. Any delays could have significant adverse effects on project success.</li>
-                <li><strong>Resource Constraint:</strong> The project team is limited to a maximum of 10 full-time staff members due to resource availability and budget constraints.</li>
+                <li><strong>Budget Constraint:</strong> The project is constrained by the ability to invest in necessary tools, technologies, or personnel, potentially impacting the scope or quality of deliverables</li>
+                <li><strong>Time Constraint:</strong> The project must be completed within a tight schedule, which may limit project's flexibility in terms of planning, development, and testing phases.</li>
+                <li><strong>Resource Constraint:</strong> The project team has limited personnel, hardware, software, or infrastructure.</li>
             </ul>
         </td>
     </tr>
