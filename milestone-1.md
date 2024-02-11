@@ -99,10 +99,9 @@
     <tr>
         <td colspan="5">
             <ol>
-                <li>Achieve a 30% increase in data retrieval speed compared to the existing manual system</li>
-                <li>Reduce data entry time by 25% compared to the previous data input processes.
-                </li>
-                <li>Develop and implement at least 5 different report templates covering various aspects of women's issues, health,and employment.</li>
+                <li>Design and develop a user-friendly and scalable online marketplace</li>
+                <li>Upload a minimum of 100 games to the plaform</li>
+                <li>Maintain an average session duration of at least 15 minutes per user.</li>
             </ol>
         </td>
     </tr>
