@@ -283,26 +283,26 @@
 
 
 ### Strengths:
-1. Expertise in knowledge management: The organization possesses specialized knowledge and expertise in developing knowledge management tools specifically tailored for non-profit organizations like the Women's Issues Network of Belize. This expertise gives them a competitive edge in understanding the unique needs and challenges faced by non-profits in managing knowledge effectively.
+1. Competitive prices with the preexisting plateforms: The cuts we will be taking from the games the studios give to us will be much lower then the preexisting platforms and that will be because we will have studios working under us and providing them with funding for games and for the studios we will not be funding we will offer a set price or a flexible percentage for said games.
 
-2. Niche market focus: The organization's focus on providing knowledge management tools exclusively for non-profit organizations, particularly those dealing with women's issues, allows them to target a specific and underserved market. This specialization can help them build a strong reputation and establish themselves as a trusted resource in the field.
+2. Niche market focus: GameVortex will be focusing on bringing in studios to work for the company to produce these games and sell them onto the GameVortex platform which is very new to the market, most other competitors simply produce games and sell them to the markets.
 
-3. Strategic partnerships: Collaborations with other non-profit organizations, academic institutions, or industry experts can strengthen the organization's capabilities and broaden their network. These partnerships can facilitate knowledge sharing, research collaborations, and access to additional resources.
+3. Strategic partnerships: GameVortex will additionally focusing on building relationships with studios and companies to establish that we are the best markets for companies to go to and in turn driving the profits of other markets down and eventually making us the biggest market in the industry.
 
 ### Weaknesses:
-1. Limited resources: As a non-profit organization, limited financial and human resources can pose a challenge in terms of developing and maintaining effective knowledge management tools. This constraint may impact their ability to innovate and keep up with technological advancements.
+1. Limited resources: As an organization just starting out it will be VERY difficult to build relationships and bring in studios to develop for us immediately and therefore the goal of the company will take time to bring into fruition.
 
-2. Lack of awareness: The organization may face challenges in raising awareness about the importance and benefits of knowledge management tools among non-profit organizations. Limited marketing resources and outreach efforts could hinder their ability to reach their target audience effectively.
+2. Lack of awareness: The preexisting markets for games are already extablished and strong in their domain while GameVortex will have to carve it's niche and have patience for the true strengths to come to life.
 
 ### Opportunities:
-1. Growing demand for knowledge management: As non-profit organizations recognize the value of efficient knowledge management, there is an increasing demand for specialized tools and solutions. The organization can capitalize on this trend by offering tailored knowledge management tools that address the specific needs of non-profits.
+1. Growing demand for more cooperative markets: A big contention in the current game market industry is that companies want a market that will not be taking high percentages from their game profits and GameVortex are aiming to be just that market and more.
 
-2. Collaboration potential: The non-profit sector often emphasizes collaboration and knowledge sharing. By fostering partnerships and collaborations with other non-profit organizations, the organization can expand its reach, exchange best practices, and enhance its offerings based on shared expertise.
+2. Collaboration potential: The Game development companies are used to a dry business interaction with game markets but GameVortex aims to change that by developing personal relations with these companies and helping out the smaller game development companies and even create new ones with the sole aim of being an inviting market for game development companies to approach.
 
 ### Threats:
-1. Competition from commercial vendors: The organization may face competition from commercial vendors offering general knowledge management tools. These vendors may have larger budgets, extensive resources, and established brand recognition, making it challenging to differentiate and compete effectively.
+1. Competition from established markets: GameVortex faces the challenge of having to gain traction initially and the established markets are a very big threat, threatening to overshadow GameVortex merely by already being established markets and business partners for game development companies and will sway companies from taking a chance on GameVortex in the face of a less risky partner.
 
-2. Rapidly evolving technology: The fast-paced nature of technology can be a threat, as it requires continuous adaptation and investment to keep up with emerging trends and maintain compatibility with evolving systems. Failure to keep pace with technology advancements may render the organization's tools obsolete or less effective over time.
+2. Rapidly evolving industry: The longer GameVortex waits to initiate the company, the more companies aim to do the exact same and threaten to beat GameVortex at becoming the all encompassing game market or alternatively the already established markets branching out into becoming an all encompassing market.
 
 ## Budget, Scope, & Time estimates
 
