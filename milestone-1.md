@@ -73,39 +73,12 @@
     </tr>
     <tr>
         <td></td>
-        <td>Melissa Tate</td>
+        <td>Benito Reyes</td>
         <td>Quality Assurance Tester</td>
         <td></td>
         <td></td>
     </tr>
-    <tr>
-        <td></td>
-        <td>Melanie Smith</td>
-        <td>coporate Relations</td>
-        <td></td>
-        <td></td>  
-    </tr>
-    <tr>
-        <td></td>
-        <td>Dietrick Butler</td>
-        <td>VP Engineering</td>
-        <td></td>
-        <td></td>       
-    </tr>
-    <tr>
-        <td></td>
-        <td>Xishel Hyde</td>
-        <td>Graphic Design Lead</td>
-        <td></td>
-        <td></td>      
-    </tr>
-    <tr>
-        <td></td>
-        <td>Lloyda Fairweather</td>
-        <td>Training Unit</td>
-        <td></td>
-        <td></td>      
-    </tr>
+    
     <tr>
         <td colspan="5" style="font-weight:bold; background-color:#F4811F">3. Stakeholders (e.g., those with a significant interest in or who will be significantly affected by this project)</td>  
     </tr>
