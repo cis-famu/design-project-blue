@@ -365,7 +365,7 @@
 
 
 ## Team Contract
-[Download Contract]((https://github.com/cis-famu/design-project-blue/blob/main/Team%20Contract.docx)https://github.com/cis-famu/design-project-blue/blob/main/Team%20Contract.docx)
+[Download Contract](https://github.com/cis-famu/design-project-blue/blob/main/Team%20Contract.docx)
 
 ## References
 *None*
