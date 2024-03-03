@@ -3,7 +3,7 @@
   <tr>
     <td>Task ID</td>
     <td>Task Name</td>
-    <td>Duration (Hours)</td>
+    <td>Duration</td>
     <td>Start Date</td>
     <td>Finish Date</td>
     <td>Predecessors</td>
@@ -45,14 +45,14 @@
     <td>Deployment and Launch</td>
     <td>1 week</td>
     <td>05/08/2024</td>
-    <td>05/15/2024e</td>
+    <td>05/15/2024</td>
     <td>4</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>Maintenance and Support/td>
+    <td>Maintenance and Support</td>
     <td>Ongoing</td>
-    <td>005/16/2024</td>
+    <td>05/16/2024</td>
     <td>-</td>
     <td>5</td>
   </tr>
