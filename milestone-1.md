@@ -7,7 +7,8 @@
 4. [Team Contract](#team-contract)
 5. [References](#references)
 
-[Download Milestone 1 Document](https://github.com/cis-famu/design-project-blue/blob/main/documents/Team Blue_Milestone 1.docx)
+[Download Milestone 1 Document](https://github.com/cis-famu/design-project-blue/blob/main/documents/Team%20Blue_Milestone%201.docx)
+
 ## Project Charter
 
 <table>
