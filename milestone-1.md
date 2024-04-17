@@ -369,4 +369,6 @@
 [Download Contract](https://github.com/cis-famu/design-project-blue/blob/main/documents/Team%20Contract.docx)
 
 ## References
-*None*
+How Much Does it Cost to Build an Online Platform. Retrieved February 11, 2024, from https://www.aalpha.net/articles/how-much-does-it-cost-to-build-an-online-platform/#:~:text=Employ%20an%20agency&text=In%20addition%20to%20intelligent%20website,project%20and%20several%20other%20factors. 
+
+Cost Estimating and Assessment Guide. Retrieved February 11, 2024, from https://www.gao.gov/assets/gao-20-195g.pdf 
