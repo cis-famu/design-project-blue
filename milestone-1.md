@@ -7,7 +7,7 @@
 4. [Team Contract](#team-contract)
 5. [References](#references)
 
-[Download Milestone 1 Document]()
+[Download Milestone 1 Document](documents/Team Blue_Milestone 1.docx)
 ## Project Charter
 
 <table>
